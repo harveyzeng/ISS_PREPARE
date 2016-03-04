@@ -1,6 +1,6 @@
 
-test.elf:     file format elf32-littlearm
-test.elf
+nop.elf:     file format elf32-littlearm
+nop.elf
 architecture: arm, flags 0x00000112:
 EXEC_P, HAS_SYMS, D_PAGED
 start address 0x00000000
