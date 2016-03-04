@@ -1,0 +1,16 @@
+
+    .text
+    .global _start
+    .code   16
+    .syntax unified
+
+_start:
+sub	sp, #12
+sub	sp, #12
+sub	sp, #12
+sub	sp, #12
+nop
+wfi
+
+    .end
+
