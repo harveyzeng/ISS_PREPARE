@@ -9,6 +9,7 @@ compile C to Machine code
 2. sh compile_script.sh
 
 output binary code is temp.hex
+
 you can change C code in app.c
 
 
@@ -20,4 +21,5 @@ compile assembly to Machine code
 2. make
 
 output binary code is nop.hex
+
 you can change assembly code in nop.s
