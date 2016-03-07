@@ -23,3 +23,7 @@ compile assembly to Machine code
 output binary code is nop.hex
 
 you can change assembly code in nop.s
+
+run ISS protocol 
+
+1. sh run.sh for the src directory
