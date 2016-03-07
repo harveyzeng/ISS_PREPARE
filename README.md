@@ -2,7 +2,7 @@
 USE GNU TOOLCHAIN TO CHANGE C CODE OR ASSEMBLY CODE TO MACHINE CODE
 Cortex-M4
 
-compile C to Machine code
+###compile C to Machine code
 
 1. cd testpattern_c
 
@@ -14,7 +14,7 @@ you can change C code in app.c
 
 
 
-compile assembly to Machine code
+###compile assembly to Machine code
 
 1. cd testpattern
 
@@ -24,6 +24,6 @@ output binary code is nop.hex
 
 you can change assembly code in nop.s
 
-run ISS protocol 
+###run ISS protocol 
 
 1. sh run.sh for the src directory
